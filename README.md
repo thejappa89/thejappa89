@@ -1,6 +1,6 @@
 <div align="Center"><img src="front-end.png" alt="Front-End logo" width="350" height="350" /></div>
 <h1 align="center">Hey developer, all right? 🤜🤛 </br>Nice to meet you!</h1>
-<h5 align="center">Front-end developer, Student of Systems Analysis and Development at UniFatecie.</h5>
+<h5 align="center">Fullstack Developer, Student of Systems Analysis and Development at UniFatecie.</h5>
 
 <!-- Contatos -->
 <div align="center"><a href="https://github.com/thejappa89" alt="github" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white"></a>
