@@ -9,12 +9,14 @@
 </div>
 
 ```javascript
-const jappa = {
-  pronouns: "he" | "his",
-  height: [183cm],
-  code: [Python, Javascript, HTML, CSS],
-  control version: [Git],
-  SO: [Windows, Linux],
+const developer = {
+    name: Henrique Lima,
+    nickname: Jappa,
+    pronouns: [he, his],
+    height: 183cm,
+    code: [Python, SQL, Javascript, HTML, CSS],
+    control version: Git,
+    SO: [Windows, Linux],
 
  message: "Looking for an opportunity as a developer"
 }
